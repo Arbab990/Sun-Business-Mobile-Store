@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Sun-Business-Mobile-Store/static/css/main.e9e632bc.css",
+    "main.js": "/Sun-Business-Mobile-Store/static/js/main.9af2351e.js",
+    "static/js/453.ed3810f9.chunk.js": "/Sun-Business-Mobile-Store/static/js/453.ed3810f9.chunk.js",
+    "static/media/product-3.png": "/Sun-Business-Mobile-Store/static/media/product-3.80abee240885f3eabce3.png",
+    "static/media/product-1.png": "/Sun-Business-Mobile-Store/static/media/product-1.ca74090c36866e811ed8.png",
+    "static/media/1710360415_galaxy_s24_ultra_-_p2o2yxd_hero.jpg": "/Sun-Business-Mobile-Store/static/media/1710360415_galaxy_s24_ultra_-_p2o2yxd_hero.6d092b17ac2cd7d0d970.jpg",
+    "static/media/pic-1.png": "/Sun-Business-Mobile-Store/static/media/pic-1.b105fe43e8bf62808d9f.png",
+    "static/media/repair.jpg": "/Sun-Business-Mobile-Store/static/media/repair.9a33a6adbe7ffee2b357.jpg",
+    "static/media/repair_service.webp": "/Sun-Business-Mobile-Store/static/media/repair_service.9b3209979913da7e2045.webp",
+    "static/media/money_transfer.webp": "/Sun-Business-Mobile-Store/static/media/money_transfer.d2a142589361b3e80735.webp",
+    "static/media/coca_cola.webp": "/Sun-Business-Mobile-Store/static/media/coca_cola.ed5a30fcf25eff3bd0ad.webp",
+    "static/media/logobiz.png": "/Sun-Business-Mobile-Store/static/media/logobiz.bdabc62367c60e3bb898.png",
+    "static/media/cart-item-4.png": "/Sun-Business-Mobile-Store/static/media/cart-item-4.55373ba7056ffc971050.png",
+    "static/media/cart-item-2.png": "/Sun-Business-Mobile-Store/static/media/cart-item-2.a126b21895f356e74acd.png",
+    "static/media/cart-item-3.png": "/Sun-Business-Mobile-Store/static/media/cart-item-3.24f3692350f004b8004a.png",
+    "static/media/cart-item-1.png": "/Sun-Business-Mobile-Store/static/media/cart-item-1.e96f24935570ab6ca6f6.png",
+    "static/media/chatbox-icon.svg": "/Sun-Business-Mobile-Store/static/media/chatbox-icon.41051a974562c214cb2bef6ce990b757.svg",
+    "index.html": "/Sun-Business-Mobile-Store/index.html",
+    "main.e9e632bc.css.map": "/Sun-Business-Mobile-Store/static/css/main.e9e632bc.css.map",
+    "main.9af2351e.js.map": "/Sun-Business-Mobile-Store/static/js/main.9af2351e.js.map",
+    "453.ed3810f9.chunk.js.map": "/Sun-Business-Mobile-Store/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9e632bc.css",
+    "static/js/main.9af2351e.js"
+  ]
+}
